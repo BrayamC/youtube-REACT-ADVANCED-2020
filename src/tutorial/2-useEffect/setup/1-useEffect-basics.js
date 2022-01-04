@@ -12,7 +12,13 @@ const UseEffectBasics = () => {
     }
     
     console.log('call useEffect')
-  })
+  }, [value]) // [] -- runs only once
+
+
+    useEffect(() => {
+    
+    console.log('call test')
+  }, []) // [] -- runs only once
 
   console.log('render componenet')
   return (
