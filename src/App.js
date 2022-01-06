@@ -1,7 +1,7 @@
 import React from 'react'
-import Setup from './tutorial/3-conditional-rendering/setup/2-short-circuit';
+import Setup from './tutorial/4-forms/setup/2-multiple-inputs';
 
-// 6:02:40
+// 7:06:25
 function App() {
   return (
     <div className='container'>
