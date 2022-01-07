@@ -1,7 +1,7 @@
 import React from 'react'
-import Setup from './tutorial/8-useContext/setup/1-context-api';
+import Setup from './tutorial/10-prop-types/setup/index'
 
-// 7:30:00
+// 9:01:25
 function App() {
   return (
     <div className='container'>
